@@ -1,2 +1,3 @@
 <?php
-echo "Hellow Andrey Petrov";
+echo "Hellow Andrey";
+echo "Hellow Petrov";
