@@ -1,2 +1,5 @@
 <?php
-echo "Hellow Andrey Petrov";
+echo "Hi World";
+echo "Hellow Andrey";
+
+echo "Здраствуй Андрей";
