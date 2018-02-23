@@ -2,4 +2,4 @@
 echo "Hi World";
 echo "Hellow Andrey";
 
-echo "Здраствуй Мир";
+echo "Привет Мир";
